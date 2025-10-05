@@ -8,78 +8,98 @@
 ![Framework Overview](https://img.shields.io/badge/Framework-Theological%20Analysis-blue)
 ![Version](https://img.shields.io/badge/Version-1.0.0-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+![Focus](https://img.shields.io/badge/Focus-Real--World%20Practice-orange)
 
 ## 🌟 Overview
 
-The **Theological Analysis Framework (TAF)** is a systematic methodology for analyzing theological claims through structured examination of propositions and their counter-perspectives. Designed for scholars, students, and interfaith dialogue practitioners, TAF provides a rigorous approach to theological discourse that promotes critical thinking, academic rigor, and mutual understanding across religious traditions.
+The **Theological Analysis Framework (TAF)** is a systematic methodology for analyzing theological claims through structured examination of **what people actually preach and practice** versus theoretical doctrines. Designed for scholars, students, and interfaith dialogue practitioners, TAF bridges the gap between academic theology and lived religious experience.
 
 ## 🎯 Purpose & Vision
 
 ### Primary Objectives
-- **Systematic Analysis**: Provide structured methodology for theological proposition evaluation
-- **Interfaith Dialogue**: Foster understanding through comparative theological study
-- **Academic Rigor**: Enable scholarly research with balanced perspective analysis
-- **Critical Engagement**: Encourage deep examination of religious claims and counter-claims
+- **Real-World Analysis**: Examine actually practiced beliefs vs theoretical doctrines
+- **Practical Theology**: Focus on devotional practices and popular preaching
+- **Contemporary Relevance**: Address current theological debates and social impacts
+- **Critical Engagement**: Analyze how religious figures actually shape daily devotion
 
 ### Target Audience
 - Theology and Religious Studies Scholars
 - Interfaith Dialogue Practitioners
 - Philosophy Students and Researchers
+- Religious Community Leaders
 - AI/ML Developers working with theological datasets
-- Anyone interested in structured analysis of religious concepts
+- Anyone interested in understanding real-world religious practice
+
+## 🌍 Real-World Theological Focus
+
+This framework uniquely addresses the **gap between theological theory and religious practice** by analyzing:
+
+### 🔍 What People Actually Preach
+- Popular sermons and contemporary teachings
+- Social media theological content and influencers
+- Modern religious leadership and their impact
+
+### 🙏 What People Actually Practice  
+- Daily devotional routines and personal spirituality
+- Ethical decision-making in real-life situations
+- Community religious behaviors and social dynamics
+
+### ⚡ Actual Theological Debates
+- Current interfaith tensions and dialogue
+- Modern reinterpretation movements
+- Science-religion practical conflicts in daily life
 
 ## 🏗️ Framework Structure
 
 ### Core Methodology
-TAF operates through a five-phase analytical process:
+TAF operates through a **real-world focused** analytical process:
 
-#### 1. **Proposition Identification**
-- Clear articulation of theological claims
-- Contextual positioning within religious traditions
-- Scope definition and boundary setting
+#### 1. **Lived Theology Analysis**
+- Analysis of **actually practiced** beliefs vs theoretical doctrines
+- Focus on **devotional practices** and **popular preaching**
+- **Real-world theological debates** rather than academic abstractions
 
-#### 2. **Tradition Contextualization** 
-- Historical development analysis
-- Denominational variations mapping
-- Cultural and sociological influences
+#### 2. **Key Figure Examination** 
+- **Founder/prophet character** analysis (Muhammad, Christ, etc.)
+- **Teacher influence** (Shankara, Ramanuja, etc.)
+- **Historical vs contemporary** interpretation gaps
 
-#### 3. **Counter-Perspective Mapping**
-- **Internal Critiques**: Variations within the same tradition
-- **External Critiques**: Perspectives from other traditions
-- **Secular/Philosophical Challenges**: Rational and empirical counter-arguments
+#### 3. **Practical Application Mapping**
+- How doctrines **actually affect** daily life and ethics
+- **Modern reinterpretations** of ancient texts
+- **Social impact** of theological positions
 
-#### 4. **Evidence Evaluation**
-- **Scriptural Sources**: Primary religious texts and interpretations
-- **Historical Evidence**: Development and contextual factors
-- **Philosophical Arguments**: Logical coherence and philosophical foundations
-- **Empirical Considerations**: Scientific and experiential evidence
-
-#### 5. **Synthetic Conclusion**
-- Reconciliation of conflicting perspectives
-- Identification of irreducible tensions
-- Formulation of open questions for further research
+#### 4. **Claim vs Counter-Perspective**
+- **Supporting Evidence**: Scriptural, historical, experiential
+- **Counter-Perspectives**: Internal and external critiques
+- **Synthetic Analysis**: Reconciliation and open questions
 
 ## 🚀 Quick Start
 
 ### Basic Usage Example
 
 ```markdown
-# TAF Analysis Template
+# TAF Real-World Analysis Template
 
-**Theological Claim**: [Clear statement of proposition]
-**Tradition/Context**: [Religious tradition and historical context]
+**Theological Claim**: [What is actually preached/practiced]
+**Tradition/Context**: [Religious community and contemporary context]
+
+## Actual Practice & Preaching
+- **Popular Teachings**: [What leaders actually emphasize]
+- **Community Practices**: [How people actually practice]
+- **Social Impact**: [Real-world consequences]
 
 ## Supporting Perspectives
-- **Scriptural Evidence**: [Relevant texts and interpretations]
-- **Theological Arguments**: [Scholarly support and reasoning]
-- **Historical Development**: [Evolution of the doctrine]
+- **Scriptural Basis**: [How texts support actual practice]
+- **Historical Development**: [Evolution to current form]
+- **Community Testimonies**: [Lived experiences]
 
 ## Counter-Perspectives
-- **Internal Critiques**: [Within-tradition objections]
+- **Internal Critiques**: [Within-community disagreements]
 - **External Critiques**: [Other traditions' viewpoints]
-- **Philosophical Challenges**: [Logical or empirical objections]
+- **Modern Challenges**: [Contemporary ethical/scientific issues]
 
-## Synthesis & Analysis
-- **Areas of Reconciliation**: [Potential common ground]
-- **Irreducible Tensions**: [Fundamental disagreements]
-- **Open Questions**: [Areas for further research]
+## Real-World Synthesis
+- **Practice-Theory Gaps**: [Where preaching differs from practice]
+- **Contemporary Relevance**: [Current applications and debates]
+- **Open Questions**: [Areas needing further study]
